@@ -4,5 +4,5 @@ This is a pair project that I led where we created two distinct classification m
 
 ## Contents
 
-- [Individual code] (https://github.com/jacobghdean/breast_cancer_diagnosis/blob/main/RCode.Rmd)
-- [Joint IEEE-style report] (https://github.com/jacobghdean/breast_cancer_diagnosis/blob/main/Data_Modelling_Report.pdf)
+- [Individual code](https://github.com/jacobghdean/breast_cancer_diagnosis/blob/main/RCode.Rmd)
+- [Joint IEEE-style report](https://github.com/jacobghdean/breast_cancer_diagnosis/blob/main/Data_Modelling_Report.pdf)
